@@ -22,11 +22,10 @@ This project involves scraping data from the above-mentioned websites. Here's a 
 
 
 ## Installation
-
-1. Clone the repository:
+Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+https://github.com/Surya-0800/Catalyst-Partners.git
 
 Install the required dependencies using command given below:
 pip install -r requirements.txt
