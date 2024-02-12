@@ -1,5 +1,4 @@
-# Project Title
-Catalyst-Partners 
+# Catalyst-Partners
 
 This project involves scraping data from two different websites:
 
